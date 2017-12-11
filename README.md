@@ -1,5 +1,3 @@
 # vue-i18n-demo
 
-> vue中英文切换demo
-
-
+实现vue中英文切换实例
